@@ -6,6 +6,11 @@
 你可以直接登录302.AI，零代码零配置使用在线版本。
 或者对本项目根据自己的需求进行修改，传入302.AI的API KEY，自行部署。
 
+## 界面预览
+![界面预览](docs/preview.jpg)
+![界面预览](docs/preview2.jpg)
+![界面预览](docs/preview3.jpg)
+
 ## ✨ 302.AI介绍 ✨
 [302.AI](https://302.ai)是一个按需付费的AI应用平台，为用户解决AI用于实践的最后一公里问题。
 1. 🧠 集合了最新最全的AI能力和品牌，包括但不限于语言模型、图像模型、声音模型、视频模型。
@@ -56,7 +61,4 @@
 4. 运行项目 `pnpm dev`
 5. 打包部署 `docker build -t document-editor . && docker run -p 3000:3000 302_document-editor`
 
-## 界面预览
-![界面预览](docs/preview.jpg)
-![界面预览](docs/preview2.jpg)
-![界面预览](docs/preview3.jpg)
+

@@ -6,6 +6,11 @@ This is the open-source version of [AI Document Editor](https://302.ai/tools/wor
 You can directly log in to 302.AI to use the online version with zero code and zero configuration.
 Or modify this project according to your needs, input 302.AI's API KEY, and deploy it yourself.
 
+## Interface Preview
+![Interface Preview](docs/preview.jpg)
+![Interface Preview](docs/preview2.jpg)
+![Interface Preview](docs/preview3.jpg)
+
 ## ✨ About 302.AI ✨
 [302.AI](https://302.ai) is a pay-as-you-go AI application platform, solving the last mile problem of AI practical applications for users.
 1. 🧠 Combines the latest and most comprehensive AI capabilities and brands, including but not limited to language models, image models, voice models, and video models.
@@ -56,7 +61,3 @@ Internationalization: next-i18next
 4. Run project `pnpm dev`
 5. Build and deploy `docker build -t document-editor . && docker run -p 3000:3000 302_document-editor`
 
-## Interface Preview
-![Interface Preview](docs/preview.jpg)
-![Interface Preview](docs/preview2.jpg)
-![Interface Preview](docs/preview3.jpg)

@@ -1,0 +1,16 @@
+# 忽略 node_modules 和构建输出
+node_modules
+dist
+build
+.next
+coverage
+
+# 忽略版本控制和临时文件
+.git
+.gitignore
+*.log
+*.cache
+
+# 忽略其他子项目的构建文件
+apps/*/node_modules
+apps/*/.next

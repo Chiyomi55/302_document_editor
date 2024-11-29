@@ -9,8 +9,8 @@ AI文档编辑器利用语言大模型辅助用户进行长文创作，提供类
 
 ## 界面预览
 ![界面预览](docs/preview.jpg)
-![界面预览](docs/preview1.jpg)
 ![界面预览](docs/preview2.jpg)
+![界面预览](docs/preview3.jpg)
 ![界面预览](docs/preview_new1.jpg)
 ![界面预览](docs/preview_ne2.jpg)
 
